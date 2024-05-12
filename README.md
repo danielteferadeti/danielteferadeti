@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hello, I'm Daniel Tefera
 
-<!--
-**danielteferadeti/danielteferadeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ℹ️ About Me
+I'm a passionate **Backend Developer** specializing in **Node.js**, **.NET Core**, and **Golang**, with over 3 years of experience. I love building products that solve real-world problems.
 
-Here are some ideas to get you started:
+### 💼 What I Offer:
+- **Skills:** Proficient in **JavaScript**, **TypeScript**, **Python**, **Java**, **Go**, **C#**
+- **Frameworks & Tools:** Experienced in **Node.js**, **Fiber**, **.NET Core**, **Django**, **Flask**, **React**, **Angular**, **Github**, **Docker**, **GCP**, **AWS**, **Redis**, **HTML & CSS**
+- **Background:** Worked in both development and project management positions at startup companies, giving me a full understanding of the product development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Core Strength: Problem-Solving & Math
+I use maths to enhance problem-solving skills. A dedicated year of practicing data structures and algorithms helps me pay close attention to details and learn quickly.
+
+## 🌟 Let's Connect!
+I'm passionate about transforming tech ideas into reality. Reach out to collaborate on impactful projects!
+
+### 📬 Contact Me
+📧 [Email](danieltefera2211@gmail.com)      🔗 [LinkedIn](https://www.linkedin.com/in/daniel-tefera-bb0369178/)
