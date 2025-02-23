@@ -5,7 +5,7 @@ I'm a passionate **Backend Developer** specializing in **Node.js**, **.NET Core*
 
 ### 💼 What I Offer:
 - **Skills:** Proficient in **JavaScript**, **TypeScript**, **Python**, **Java**, **Go**, **C#**
-- **Frameworks & Tools:** Experienced in **Node.js**, **Fiber**, **.NET Core**, **Django**, **Flask**, **React**, **Angular**, **Github**, **Docker**, **GCP**, **AWS**, **Redis**, **HTML & CSS**
+- **Frameworks & Tools:** Experienced in **Node.js**, **Fiber**, **.NET Core**, **Django**, **Flask**, **FastAPI**, **React**, **Angular**, **Github**, **Docker**, **GCP**, **AWS**, **Redis**, **HTML & CSS**
 - **Background:** Worked in both development and project management positions at startup companies, giving me a full understanding of the product development.
 
 ## 🧠 Core Strength: Problem-Solving & Math
